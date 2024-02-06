@@ -1,0 +1,10 @@
+iteration :290 learning rate: 0.01 train_error: 0.6144894570308612 valid_error: 0.5485229687860256
+iteration :290 learning rate: 0.02 train_error: 0.6290135707002176 valid_error: 0.5469685640985513
+iteration :290 learning rate: 0.03 train_error: 0.6387620143115718 valid_error: 0.552307111319662
+iteration :290 learning rate: 0.04 train_error: 0.6564718061168885 valid_error: 0.5475040152292142
+iteration :290 learning rate: 0.05 train_error: 0.6781112729266325 valid_error: 0.5509336765524484
+iteration :290 learning rate: 0.06 train_error: 0.6936026839750231 valid_error: 0.5519985595684149
+iteration :290 learning rate: 0.07 train_error: 0.7091637723751002 valid_error: 0.5475125206846132
+iteration :290 learning rate: 0.08 train_error: 0.7209819070011687 valid_error: 0.5492286598778302
+iteration :290 learning rate: 0.09 train_error: 0.731748831166823 valid_error: 0.5504747745203773
+iteration :290 learning rate: 0.1 train_error: 0.7420185847451148 valid_error: 0.5459800993280166

@@ -1,0 +1,14 @@
+tree depth:3 learning rate: 0.03 train_acc: 0.6180515965841284 valid_acc: 0.5733227830792208
+tree depth:3 learning rate: 0.04 train_acc: 0.6274396716978925 valid_acc: 0.5736882559550618
+tree depth:3 learning rate: 0.05 train_acc: 0.6338739310777146 valid_acc: 0.5736744509466833
+tree depth:4 learning rate: 0.03 train_acc: 0.6267476597871685 valid_acc: 0.5762046930747535
+tree depth:4 learning rate: 0.04 train_acc: 0.638338926788792 valid_acc: 0.577635834085521
+tree depth:4 learning rate: 0.05 train_acc: 0.649364675337617 valid_acc: 0.576931320672156
+tree depth:5 learning rate: 0.03 train_acc: 0.6360260379677547 valid_acc: 0.5762239284892714
+tree depth:5 learning rate: 0.04 train_acc: 0.649575990018299 valid_acc: 0.5787412815810831
+tree depth:5 learning rate: 0.05 train_acc: 0.6610328930033966 valid_acc: 0.580757728776468
+tree depth:6 learning rate: 0.03 train_acc: 0.64858987120469 valid_acc: 0.5776732580892769
+tree depth:6 learning rate: 0.04 train_acc: 0.6643388548738127 valid_acc: 0.5792957064199439
+tree depth:6 learning rate: 0.05 train_acc: 0.6820593357485804 valid_acc: 0.5775844087936465
+tree depth:7 learning rate: 0.03 train_acc: 0.6595725443990115 valid_acc: 0.5798845456398811
+tree depth:7 learning rate: 0.04 train_acc: 0.6780190720325059 valid_acc: 0.5837574066159881
